@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mobil</folder>
+	<filename>image_296.png</filename>
+	<path>C:\Users\Cube Gaming\Documents\Kuliah\Semester 8\Tugas Akhir\Program TA\positive\mobil\image_296.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mobil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>4</ymin>
+			<xmax>57</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>
