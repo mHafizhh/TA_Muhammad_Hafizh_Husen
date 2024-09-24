@@ -315,7 +315,7 @@ def search_video():
 def mulai_video():
     global video_file
     if video_file is None:
-        messagebox.showwarning("Peringatan", "Silakan untuk memilih video terlebih dahulu.")
+        messagebox.showwarning("Peringatan", "Silakan kembali ke tahap 1 untuk memilih video terlebih dahulu.")
         return
     else:
         putar_video()
